@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.dbf29837.css",
-    "main.js": "/static/js/main.e83b3f73.js",
+    "main.js": "/static/js/main.f864b5f8.js",
     "static/js/787.85cf5ed9.chunk.js": "/static/js/787.85cf5ed9.chunk.js",
     "static/media/ndtv.png": "/static/media/ndtv.54a1957094d17c5dc747.png",
+    "static/media/RohitResume.pdf": "/static/media/RohitResume.253bc107f310e2155830.pdf",
     "static/media/cam.png": "/static/media/cam.3444a9ca1874bdf96a7e.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
@@ -14,11 +15,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.dbf29837.css.map": "/static/css/main.dbf29837.css.map",
-    "main.e83b3f73.js.map": "/static/js/main.e83b3f73.js.map",
+    "main.f864b5f8.js.map": "/static/js/main.f864b5f8.js.map",
     "787.85cf5ed9.chunk.js.map": "/static/js/787.85cf5ed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbf29837.css",
-    "static/js/main.e83b3f73.js"
+    "static/js/main.f864b5f8.js"
   ]
 }
