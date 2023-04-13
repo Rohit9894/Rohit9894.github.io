@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "src1": "https://user-images.githubusercontent.com/101738635/231741409-61b4e036-84d3-4c5f-bed9-38e848627e66.png",
+    "src2": "https://user-images.githubusercontent.com/101738635/231740503-cdc67570-59c4-4b5f-aa6c-6ec0caa43a90.png",
+    "name": "Live-Chat",
+    "link": "https://client-theta-ebon.vercel.app",
+    "repo": "https://github.com/Rohit9894/Live-Chat",
+    "info": "Live-Chat is Full Stack Chating App  where we do individual and group chat . It is real time chatting app make by socket.io.",
+    "team": "This is the project that was individually done by me and completed in 8 Days.",
+    "tstack": "MERN | Chakra UI | Socket.io",
+    "direction": false
+  },
+  {
+    "id": 2,
+    "src1": "https://i.imgur.com/E8zW9Sl.png",
+    "src2": "https://i.imgur.com/O04cJ9A.png",
+    "name": "MailTest",
+    "link": "https://puffy-calendar-166.netlify.app/",
+    "repo": "https://github.com/Rohit9894/puffy-calendar-166",
+    "info": "Mailtrap is a test mail server solution that allows testing email notifications without sending them to the real users of your application.",
+    "team": "A collaborative project of 5 team members completed in 5 days.",
+    "tstack": "React | Chakra UI | JavaScript | HTML | CSS | Node JS ",
+    "direction": true
+  },
+  {
+    "id": 3,
+    "src1": "https://i.imgur.com/jPLBCWO.png",
+    "src2": "https://i.imgur.com/AkuqEcA.png",
+    "name": "Campaign Monitor",
+    "link": "https://social-celery-8599-rohit9894.vercel.app/",
+    "repo": "https://github.com/Rohit9894/social-celery-8599",
+    "info": "Connecting with your audience has never been easier with Campaign Monitor's straightforward email marketing and automation tools.",
+    "team": "This is the project that was individually done by me and completed in 5 Days.",
+    "tstack": "HTML | CSS | JAVASCRIPT | REACT | CHAKRA UI",
+    "direction": false
+  },
+  {
+    "id": 4,
+    "src1": "https://i.imgur.com/fkOg1xh.png",
+    "src2": "https://i.imgur.com/Jgty065.png",
+    "name": "NDTV",
+    "link": "https://luxury-hamster-c4418a.netlify.app/city.html",
+    "repo": "https://github.com/Rohit9894/ndtv",
+    "info": "NDTV.com provides latest news from India and around the world. Get breaking news alerts from India .",
+    "team": "This is the project that was individually done by me and completed in 5 Days.",
+    "tstack": "HTML | CSS | JAVASCRIPT",
+    "direction": true
+  },
+  {
+    "id": 5,
+    "src1": "https://i.imgur.com/WQZujZe.png",
+    "src2": "https://i.imgur.com/1ElIJq2.png",
+    "name": "Finder",
+    "link": "https://quorachat.vercel.app/",
+    "repo": "https://github.com/Rohit9894/quorachat",
+    "info": "It is social media and multiuser site where you can post the articles ",
+    "team": "This is the project that was individually done by me and completed in 2 Days.",
+    "tstack": "HTML | CSS | JAVASCRIPT | NEXT JS | CHAKRA UI",
+    "direction": false
+  }
+]

@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300&display=swap");
+* {
+  font-family: "Noto Sans", sans-serif;
+}
+.NavMainFlex {
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+}
+
+.ChackraNavBar {
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+}
+
+.cardImg {
+  display: inline-block;
+  position: relative;
+}
+
+.cardImg .imgTop {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+.cardImg:hover .imgTop {
+  display: inline;
+  cursor: pointer;
+  z-index: inherit;
+}
+
+.refClick {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.DayNightButton {
+  cursor: pointer;
+}
+
+/* Scroll Bar */
+::-webkit-scrollbar {
+  width: 16px;
+  height: 0px;
+  border: 1px solid red;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  width: 50px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9f7aea;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9f7aea;
+}
+
+.imgTop {
+  border-radius: 5px;
+}
+.form {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 100%;
+  font-size: 16px;
+}
+.input {
+  width: 100%;
+  height: 35px;
+  padding: 7px;
+  outline: none;
+  border-radius: 5px;
+  background-color: inherit;
+  border: 3px solid rgb(220, 220, 220);
+}
+.textarea {
+  max-width: 100%;
+  min-width: 100%;
+  width: 100%;
+  max-height: 100px;
+  min-height: 100px;
+  padding: 7px;
+  outline: none;
+  border-radius: 5px;
+  background-color: inherit;
+  border: 3px solid rgb(220, 220, 220);
+}
+label {
+  color: ;
+  margin-top: 1rem;
+}
+input[type="submit"] {
+  margin-top: 2rem;
+  cursor: pointer;
+  background: red;
+  color: white;
+  border: none;
+}
