@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.9ff3a602.css",
-    "main.js": "/static/js/main.c14e6298.js",
+    "main.js": "/static/js/main.4192bbcc.js",
     "static/js/787.0dd8dd44.chunk.js": "/static/js/787.0dd8dd44.chunk.js",
     "static/media/RohitGupta.pdf": "/static/media/RohitGupta.dc39ce39e61fa433f7a2.pdf",
     "index.html": "/index.html",
     "main.9ff3a602.css.map": "/static/css/main.9ff3a602.css.map",
-    "main.c14e6298.js.map": "/static/js/main.c14e6298.js.map",
+    "main.4192bbcc.js.map": "/static/js/main.4192bbcc.js.map",
     "787.0dd8dd44.chunk.js.map": "/static/js/787.0dd8dd44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff3a602.css",
-    "static/js/main.c14e6298.js"
+    "static/js/main.4192bbcc.js"
   ]
 }
